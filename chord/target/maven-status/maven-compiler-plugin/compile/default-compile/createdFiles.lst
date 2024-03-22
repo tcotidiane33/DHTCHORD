@@ -1,0 +1,8 @@
+com\ds\dht\Finger.class
+com\ds\dht\RingStabilizer.class
+com\ds\dht\SHAHelper.class
+com\ds\dht\DHTMain.class
+com\ds\dht\Node.class
+com\ds\dht\PingHandler.class
+com\ds\dht\ProtocolHandler.class
+com\ds\dht\NodeServer.class
